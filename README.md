@@ -30,5 +30,5 @@ O sistema classifica o herói conforme a tabela:
 Abra o arquivo `index.html` no navegador.
 
 ## Autor
+Jonathan Alves Ferreira de Melo.
 
-Projeto criado para estudo de lógica de programação.
